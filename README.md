@@ -70,11 +70,10 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 <div style="display: flex; justify-content: Center;">
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
     <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;">
-    <div align=justify>Nepali IT Study Community</div>
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
     <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300">
-    <div align=left>IT Education Nepal</div>
+
   </a>
 </div>
 <br>
@@ -84,11 +83,9 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 <div style="display: flex; justify-content: Center;">
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
     <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;">
-    <div align=center>Learning Updates/ IT learning community🌱🥇📖</div>
   </a>
    <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
     <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300">
-    <div align=center>Jiwan Bhattarai Official</div>
   </a>
 </div>
 <br>
@@ -97,21 +94,20 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 ## 🔗 Contact Links
 <!-- picture section -->
 
-### 
 <div style="display: flex; justify-content: left;">
-  <a href="https://t.me/pingccie" style="text-align: left;">
+  <a href="https://t.me/pingccie"">
     <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 130px;">
-  <div align=left><span style="font-size: 25px;"><B>#CCIE 60261 Jiwan Bhattarai Sir</B></span></div>
   </br>
   </a>
-    <a href="https://t.me/subash729" style="text-align: left;">
+    <a href="https://t.me/subash729">
     <img src="screenshots/template-image/subash-chaudhary.png" alt="Learning Updates" width="400" height="250">
-  <div align=left><span style="font-size: 25px;"> <B>Er. Subash Chaudhary</B></span></div>
   </br>
   </a>
   </div>
 
+
 <!-- Comment for link section -->
+
 <div style="display: flex; justify-content: left; margin-bottom: 20px;">
   <a style="margin-right: 10px; text-align: left;">
   </a>
