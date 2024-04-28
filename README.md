@@ -1,22 +1,17 @@
 # Table of Contents
 
-1. [Project Topic](#project-topic)..........................................................3
-   - [Authors](#authors)..................................................................3
-   - [1. Description](#1-description)......................................................4
-   - [2. Project Init and Setup](#2-project-init-and-setup)................................5
-
-2. [Support and Contact Information](#support-and-contact-information)....................6
-   - [Jiwan Bhattarai](#jiwan-bhattarai-ccie-60261)........................................6
-   - [Subash Chaudhary](#subash-chaudhary)................................................7
-
-3. [About Us](#-about-us)..................................................................8
-
-4. [Contact Links](#-contact-links)........................................................9
-   - [Jiwan Bhattarai CCIE 60261](#jiwan-bhattarai-ccie-60261)..............................9
-   - [Subash Chaudhary](#subash-chaudhary)...............................................10
-
-5. [Feedback and Suggestions](#feedback-and-suggestions)...................................11
-
+- [Table of Contents](#table-of-contents)
+- [Project Topic](#project-topic)
+  - [Authors](#authors)
+  - [Description](#description)
+  - [Project Init and Setup](#project-init-and-setup)
+- [Support and Contact Information](#support-and-contact-information)
+- [About Us](#about-us)
+- [Contact Links](#contact-links)
+  - [Jiwan Bhattarai CCIE 60261](#jiwan-bhattarai-ccie-60261)
+  - [Subash Chaudhary](#subash-chaudhary)
+- [Feedback and Suggestions](#feedback-and-suggestions)
+ 
 # Project Topic
 
 A brief description of what this project does and who it's for
@@ -26,15 +21,14 @@ A brief description of what this project does and who it's for
 - [Jiwan Bhattarai](https://www.linkedin.com/in/jiwanbhattarai/)
 - [Subash Chaudhary](https://www.github.com/subash729)
 
-## 1. Description
+## Description
 
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
 - Cross platform
 
-## 2. Project Init and Setup
-
+## Project Init and Setup
 
 # Support and Contact Information
 
@@ -48,19 +42,11 @@ For support or inquiries, feel free to reach out to us through the following cha
 - **Email**: [subaschy729@gmail.com](mailto:subaschy729@gmail.com)
 - **Phone**: +977 9823827047
 
-<br>
+# About Us
 
-# 🚀 About Us
-
-<div align="justify">
 We are a team of security professionals and DevOps Engineers dedicated to ensuring robust network security and efficient cloud infrastructure. Our security expertise includes certifications such as CCNA and CCNP (2012), as well as achieving the prestigious CCIE #60261 (2018). Specializing in technologies like CISCO ASA, FTD, ISE, PaloAlto, and Fortinet, we provide multivendor network security solutions. Additionally, our team holds certifications as Certified Ethical Hackers (CEH) and in Redhat Linux, enabling us to effectively safeguard digital assets.
-<br>
-<br>
 
 In addition to our security focus, we excel in DevOps practices, specializing in Network and Systems, as well as Cloud technologies. Our proficiency extends to Kubernetes, containerization, Continuous Integration and Continuous Deployment (CI/CD), and Infrastructure as Code (IAC) using industry-standard tools like Terraform and CloudFormation. With our comprehensive skill set, we ensure both security and efficiency in our clients' IT environments.
-</div>
-
-<br>
 
 - **YouTube Channels**:
   - [Nepali IT Study Community](https://www.youtube.com/@NepaliITStudyCommunity)
@@ -75,20 +61,21 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 - **Slack**:
   Join our Slack channel for discussions and assistance. [Click here to join](https://join.slack.com/t/your-slack-workspace/shared_invite/zt-1234567890)
 
-# 🔗 Contact Links
+# Contact Links
 
 ## Jiwan Bhattarai CCIE 60261
-[![Jiwan-CCIE-portfolio](https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://jiwanbhattarai.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwanbhattarai/)
-[![Instagram - CCIE Professional](https://img.shields.io/badge/Instagram%20-%20CCIE%20Professional%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jiwanbhattaraiofficial/)
-[![Instagram - Yogi Personal](https://img.shields.io/badge/Instagram%20-%20Yogi%20Personal%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yogijiwan/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CCIEJIWAN)
+[![Jiwan-CCIE-portfolio](https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://jiwanbhattarai.com/)<br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwanbhattarai/)<br>
+[![Instagram - CCIE Professional](https://img.shields.io/badge/Instagram%20-%20CCIE%20Professional%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jiwanbhattaraiofficial/)<br>
+[![Instagram - Yogi Personal](https://img.shields.io/badge/Instagram%20-%20Yogi%20Personal%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yogijiwan/)<br>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CCIEJIWAN)<br>
 
 ## Subash Chaudhary
-[![Subash_portfolio](https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/subash729/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chaudhary-it-engineer/)
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rambati.subash.chaudhary.729/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Subash729)
+[![Subash_portfolio](https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/subash729/)<br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chaudhary-it-engineer/)<br>
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rambati.subash.chaudhary.729/)<br>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Subash729)<br>
+
 
 # Feedback and Suggestions
 
