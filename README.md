@@ -12,7 +12,6 @@
     - [ YouTube Channels](#-youtube-channels)
     - [ Social Media Groups](#-social-media-groups)
   - [🔗 Contact Links](#-contact-links)
-    - [](#)
   - [📝 Feedback and Suggestions](#-feedback-and-suggestions)
  
 # Project Topic
@@ -67,54 +66,50 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 ###  <img src="screenshots/template-image/youtube-logo.png" width="65" height="50"> <span style="font-size: 59px;">YouTube Channels</span>
  
 
-<div style="display: flex; justify-content: Center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;">
-    <div align=justify>Nepali IT Study Community</div>
+    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100">
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300">
-    <div align=left>IT Education Nepal</div>
+    <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300" hspace="100">
+
   </a>
 </div>
-<br>
-<br>
+<pre>
+            <B>Nepali IT Study Community</B>                                          <B>IT Education Nepal</B>
+</pre>
+
+
 
 ###  <img src="screenshots/template-image/social-media.png" width="65" height="50"> <span style="font-size: 59px;">Social Media Groups</span>
+click on icon to join the the group of respective platform
 <div style="display: flex; justify-content: Center;">
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-    <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;">
-    <div align=center>Learning Updates/ IT learning community🌱🥇📖</div>
+    <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;" hspace="50" >
   </a>
    <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-    <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300">
-    <div align=center>Jiwan Bhattarai Official</div>
+    <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300" hspace="50" >
   </a>
 </div>
-<br>
-<br>
+ 
 
 ## 🔗 Contact Links
 <!-- picture section -->
 
-### 
-<div style="display: flex; justify-content: left;">
-  <a href="https://t.me/pingccie" style="text-align: left;">
-    <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 130px;">
-  <div align=left><span style="font-size: 25px;"><B>#CCIE 60261 Jiwan Bhattarai Sir</B></span></div>
-  </br>
+<div style="display: flex; justify-content: Center;">
+  <a href="https://t.me/pingccie" style="text-align: center;">
+    <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 100px;" hspace="50" >
   </a>
-    <a href="https://t.me/subash729" style="text-align: left;">
-    <img src="screenshots/template-image/subash-chaudhary.png" alt="Learning Updates" width="400" height="250">
-  <div align=left><span style="font-size: 25px;"> <B>Er. Subash Chaudhary</B></span></div>
-  </br>
+   <a href="https://t.me/subash729" style="text-align: center;">
+    <img src="screenshots/template-image/subash-chaudhary.png" alt="Jiwan Bhattarai Official" width="400" height="250" hspace="50">
   </a>
-  </div>
+</div>
+
+
 
 <!-- Comment for link section -->
-<div style="display: flex; justify-content: left; margin-bottom: 20px;">
-  <a style="margin-right: 10px; text-align: left;">
-  </a>
+
+<p>
   <a>
 
   [![Jiwan-CCIE-portfolio](https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://jiwanbhattarai.com/) <br>
@@ -125,8 +120,6 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
   </a>
   
-  <a style="margin-right: 250px;">
-  </a>
   <a>
 
   [![Subash_portfolio](https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/subash729/)<br>
@@ -136,7 +129,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
   </a>
   
-</div>
+</p>
 
 
 
