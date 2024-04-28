@@ -26,6 +26,10 @@ A brief description of what this project does and who it's for
 # Project Documentation
 ## Project Description
 
+```diff
+- This is a red colored line
+```
+
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
@@ -74,16 +78,22 @@ In addition to our security focus, we excel in DevOps practices, specializing in
     <img width="35%" src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" height="300" hspace="10">
   </a>
 </div>
+
+
 <div align="center">
 
 <a href="https://www.youtube.com/channel/UCeMWyKMRaWt06_cxyajaUtg?sub_confirmation=1">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
+  <img src="https://img.shields.io/youtube/channel/views/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube video views"  hspace="30">
 </a>
 
 <a href="https://www.youtube.com/channel/UCJinKAyRTpHJOPE0YgCMhog?sub_confirmation=1">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCJinKAyRTpHJOPE0YgCMhog?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCJinKAyRTpHJOPE0YgCMhog?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers"  hspace="30">
+  <img src="https://img.shields.io/youtube/channel/views/UCJinKAyRTpHJOPE0YgCMhog?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube video views">
 </a>
 </div>
+
+
 
 
 
