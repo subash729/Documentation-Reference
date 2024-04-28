@@ -69,10 +69,10 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 <div style="display: flex; justify-content: Center;">
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;">
+    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100" >
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300">
+    <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300" hspace="100">
 
   </a>
 </div>
@@ -82,10 +82,10 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 ###  <img src="screenshots/template-image/social-media.png" width="65" height="50"> <span style="font-size: 59px;">Social Media Groups</span>
 <div style="display: flex; justify-content: Center;">
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-    <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;">
+    <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;" hspace="50" >
   </a>
    <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-    <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300">
+    <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300" hspace="50" >
   </a>
 </div>
 <br>
@@ -96,10 +96,10 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 <div style="display: flex; justify-content: Center;">
   <a href="https://t.me/pingccie" style="text-align: center;">
-    <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 100px;">
+    <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 100px;" hspace="50" >
   </a>
    <a href="https://t.me/subash729" style="text-align: center;">
-    <img src="screenshots/template-image/subash-chaudhary.png" alt="Jiwan Bhattarai Official" width="400" height="250">
+    <img src="screenshots/template-image/subash-chaudhary.png" alt="Jiwan Bhattarai Official" width="400" height="250" hspace="50">
   </a>
 </div>
 
@@ -107,9 +107,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 <!-- Comment for link section -->
 
-<div style="display: flex; justify-content: left; margin-bottom: 20px;">
-  <a style="margin-right: 10px; text-align: left;">
-  </a>
+<p>
   <a>
 
   [![Jiwan-CCIE-portfolio](https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://jiwanbhattarai.com/) <br>
@@ -120,8 +118,6 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
   </a>
   
-  <a style="margin-right: 250px;">
-  </a>
   <a>
 
   [![Subash_portfolio](https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/subash729/)<br>
@@ -131,7 +127,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
   </a>
   
-</div>
+</p>
 
 
 
@@ -152,3 +148,9 @@ Alternatively, you can submit feedback directly through GitHub:
 - **GitHub Issues:** [Submit Feedback](https://github.com/subash729/Documentation-Reference/issues/new)
 
 We appreciate your time and value your input, as it helps us continuously improve and better serve your needs.
+
+<p>
+    <img src="https://picsum.photos/100/100" hspace="100" >
+    <img src="https://picsum.photos/100/100" hspace="100" >
+</p>
+
