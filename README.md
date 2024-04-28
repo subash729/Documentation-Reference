@@ -90,12 +90,12 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 ###  <img src="screenshots/template-image/social-media.png" width="65" height="50"> <span style="font-size: 59px;">Social Media Groups</span>
 click on icon to join the the group of respective platform
-<div>
+<p align="center" width="100%">
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-    <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;" hspace="50" >
+    <img width="35%" src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" height="300" style="margin-right: 100px;" hspace="30" >
   </a>
    <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-    <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300" hspace="50" >
+    <img width="45%" src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" height="300" hspace="30" >
   </a>
 </div>
  
