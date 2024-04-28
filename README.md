@@ -66,16 +66,12 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 ###  <img src="screenshots/template-image/youtube-logo.png" width="65" height="50"> <span style="font-size: 59px;">YouTube Channels</span>
  
 
-<div>
+<p align="center" width="100%">
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100">
-
-
-    
+    <img width="35%" src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community"  height="300" style="margin-right: 200px;" hspace="30">
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300" hspace="100">
-
+    <img width="35%" src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" height="300" hspace="10">
   </a>
 </div>
 <div align="center">
