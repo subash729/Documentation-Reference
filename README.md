@@ -69,12 +69,25 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 <div>
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
     <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100">
+
+
+    
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
     <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300" hspace="100">
 
   </a>
 </div>
+<div align="center">
+
+<a href="https://www.youtube.com/channel/UCeMWyKMRaWt06_cxyajaUtg?sub_confirmation=1">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
+</a>
+
+
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge)           ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJinKAyRTpHJOPE0YgCMhog?color=%09%23FF0000&logo=youtube&style=for-the-badge)
+</div>
+
 <pre>
             <B>Nepali IT Study Community</B>                                          <B>IT Education Nepal</B>
 </pre>
@@ -108,12 +121,18 @@ click on icon to join the the group of respective platform
 
 
 
+
+<p align="center" style="text-align: center;">
+
+  
   [![Jiwan-CCIE-portfolio](https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://jiwanbhattarai.com/) <br>
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwanbhattarai/)<br>
   [![Instagram - CCIE Professional](https://img.shields.io/badge/Instagram%20-%20CCIE%20Professional%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jiwanbhattaraiofficial/)<br>
   [![Instagram - Yogi Personal](https://img.shields.io/badge/Instagram%20-%20Yogi%20Personal%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yogijiwan/)<br>
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CCIEJIWAN)<br>
 
+</p>
+  
 <p>
     <a href="https://t.me/subash729" style="text-align: center;">
     <img src="screenshots/template-image/subash-chaudhary.png" alt="Jiwan Bhattarai Official" width="400" height="250" hspace="50">
