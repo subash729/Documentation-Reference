@@ -80,13 +80,11 @@ In addition to our security focus, we excel in DevOps practices, specializing in
   <img src="https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
 </a>
 
-
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge)           ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCJinKAyRTpHJOPE0YgCMhog?color=%09%23FF0000&logo=youtube&style=for-the-badge)
+<a href="https://www.youtube.com/channel/UCJinKAyRTpHJOPE0YgCMhog?sub_confirmation=1">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCJinKAyRTpHJOPE0YgCMhog?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
+</a>
 </div>
 
-<pre>
-            <B>Nepali IT Study Community</B>                                          <B>IT Education Nepal</B>
-</pre>
 
 
 
