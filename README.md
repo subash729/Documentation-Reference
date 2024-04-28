@@ -121,16 +121,25 @@ click on icon to join the the group of respective platform
 
 <!-- Comment for link section -->
 
-<p align="center" style="text-align: center;">
 
-  
-  [![Jiwan-CCIE-portfolio](https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://jiwanbhattarai.com/) <br>
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiwanbhattarai/)<br>
-  [![Instagram - CCIE Professional](https://img.shields.io/badge/Instagram%20-%20CCIE%20Professional%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jiwanbhattaraiofficial/)<br>
-  [![Instagram - Yogi Personal](https://img.shields.io/badge/Instagram%20-%20Yogi%20Personal%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yogijiwan/)<br>
-  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CCIEJIWAN)<br>
-
+<p align="left" style="text-align: left;">
+  <a href="http://jiwanbhattarai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Jiwan-CCIE_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Jiwan's CCIE Portfolio" />
+  </a><br>
+  <a href="https://www.linkedin.com/in/jiwanbhattarai/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><br>
+  <a href="https://www.instagram.com/jiwanbhattaraiofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20-%20CCIE%20Professional%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - CCIE Professional" />
+  </a><br>
+  <a href="https://www.instagram.com/yogijiwan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20-%20Yogi%20Personal%20-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Yogi Personal" />
+  </a><br>
+  <a href="https://twitter.com/CCIEJIWAN" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a><br>
 </p>
+
 
 <p>
     <a href="https://t.me/subash729" style="text-align: center;">
