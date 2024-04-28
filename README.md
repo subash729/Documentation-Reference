@@ -77,10 +77,8 @@ In addition to our security focus, we excel in DevOps practices, specializing in
   </a>
 </div>
 <pre>
-            <B>Nepali IT Study Community<B>                                          <B>IT Education Nepal</B>
+            <B>Nepali IT Study Community</B>                                          <B>IT Education Nepal</B>
 </pre>
-
-
 
 
 
@@ -153,9 +151,4 @@ Alternatively, you can submit feedback directly through GitHub:
 - **GitHub Issues:** [Submit Feedback](https://github.com/subash729/Documentation-Reference/issues/new)
 
 We appreciate your time and value your input, as it helps us continuously improve and better serve your needs.
-
-<p>
-    <img src="https://picsum.photos/100/100" hspace="100" >
-    <img src="https://picsum.photos/100/100" hspace="100" >
-</p>
 
