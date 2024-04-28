@@ -66,7 +66,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 ###  <img src="screenshots/template-image/youtube-logo.png" width="65" height="50"> <span style="font-size: 59px;">YouTube Channels</span>
  
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div>
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
     <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100">
   </a>
