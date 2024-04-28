@@ -84,7 +84,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 <a href="https://www.youtube.com/channel/UCeMWyKMRaWt06_cxyajaUtg?sub_confirmation=1">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
-  <img src="https://img.shields.io/youtube/channel/views/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube video views"  hspace="30">
+  <img src="https://img.shields.io/youtube/channel/views/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube video views"  hspace="40">
 </a>
 
 <a href="https://www.youtube.com/channel/UCJinKAyRTpHJOPE0YgCMhog?sub_confirmation=1">
@@ -108,7 +108,11 @@ click on icon to join the the group of respective platform
     <img width="45%" src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" height="300" hspace="30" >
   </a>
 </div>
- 
+
+<div align="left">
+  <img src="https://img.shields.io/badge/WhatsApp%20Group%20Members-102-brightgreen?logo=whatsapp&style=for-the-badge"  hspace="140"> <img hspace="20" src="https://img.shields.io/badge/Telegram%20Group%20Members-445-blue?logo=telegram&style=for-the-badge">
+</div>
+
 
 ## 🔗 Contact Links
 <!-- picture section -->
@@ -122,9 +126,6 @@ click on icon to join the the group of respective platform
 
 
 <!-- Comment for link section -->
-
-
-
 
 <p align="center" style="text-align: center;">
 
