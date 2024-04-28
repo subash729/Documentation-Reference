@@ -67,19 +67,25 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 ###  <img src="screenshots/template-image/youtube-logo.png" width="65" height="50"> <span style="font-size: 59px;">YouTube Channels</span>
  
 
-<div style="display: flex; justify-content: Center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
-    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100" >
+    <img src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community" width="300" height="300" style="margin-right: 200px;" hspace="100">
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
     <img src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" width="300" height="300" hspace="100">
 
   </a>
 </div>
-<br>
-<br>
+<pre>
+            <B>Nepali IT Study Community<B>                                          <B>IT Education Nepal</B>
+</pre>
+
+
+
+
 
 ###  <img src="screenshots/template-image/social-media.png" width="65" height="50"> <span style="font-size: 59px;">Social Media Groups</span>
+click on icon to join the the group of respective platform
 <div style="display: flex; justify-content: Center;">
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
     <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;" hspace="50" >
@@ -88,8 +94,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
     <img src="screenshots/template-image/telegram-logo.png" alt="Jiwan Bhattarai Official" width="500" height="300" hspace="50" >
   </a>
 </div>
-<br>
-<br>
+ 
 
 ## 🔗 Contact Links
 <!-- picture section -->
