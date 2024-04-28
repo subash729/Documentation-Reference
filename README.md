@@ -136,14 +136,22 @@ click on icon to join the the group of respective platform
     <a href="https://t.me/subash729" style="text-align: center;">
     <img src="screenshots/template-image/subash-chaudhary.png" alt="Jiwan Bhattarai Official" width="400" height="250" hspace="50">
   </a>
+
+<p align="left">
+  <a href="https://github.com/subash729/" target="_blank">
+    <img src="https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Subash's Portfolio" />
+  </a><br>
+  <a href="https://www.linkedin.com/in/subash-chaudhary-it-engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><br>
+  <a href="https://www.instagram.com/rambati.subash.chaudhary.729/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a><br>
+  <a href="https://twitter.com/Subash729" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a><br>
 </p>
 
-  [![Subash_portfolio](https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/subash729/)<br>
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chaudhary-it-engineer/)<br>
-  [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rambati.subash.chaudhary.729/)<br>
-  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Subash729)<br>
-  
-</p>
 
 
 
