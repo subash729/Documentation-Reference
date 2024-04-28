@@ -113,7 +113,6 @@ click on icon to join the the group of respective platform
   <img src="https://img.shields.io/badge/WhatsApp%20Group%20Members-102-brightgreen?logo=whatsapp&style=for-the-badge"  hspace="140"> <img hspace="20" src="https://img.shields.io/badge/Telegram%20Group%20Members-445-blue?logo=telegram&style=for-the-badge">
 </div>
 
-
 ## 🔗 Contact Links
 <!-- picture section -->
 
@@ -122,8 +121,6 @@ click on icon to join the the group of respective platform
     <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 100px;" hspace="50" >
   </a>
 <p>
-
-
 
 <!-- Comment for link section -->
 
@@ -137,21 +134,17 @@ click on icon to join the the group of respective platform
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CCIEJIWAN)<br>
 
 </p>
-  
+
 <p>
     <a href="https://t.me/subash729" style="text-align: center;">
     <img src="screenshots/template-image/subash-chaudhary.png" alt="Jiwan Bhattarai Official" width="400" height="250" hspace="50">
   </a>
 </p>
-  
-  
 
   [![Subash_portfolio](https://img.shields.io/badge/Subash-portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/subash729/)<br>
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-chaudhary-it-engineer/)<br>
   [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rambati.subash.chaudhary.729/)<br>
   [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Subash729)<br>
-
-  </>
   
 </p>
 
