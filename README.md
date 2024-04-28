@@ -72,7 +72,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 <p align="center" width="100%">
   <a href="https://www.youtube.com/@NepaliITStudyCommunity" style="text-align: center;">
-    <img width="35%" src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community"  height="300" style="margin-right: 200px;" hspace="30">
+    <img width="35%" src="screenshots/template-image/youtube-nistc.png" alt="Nepali IT Study Community"  height="300" style="margin-right: 200px;" hspace="20">
   </a>
   <a href="https://www.youtube.com/@iteducationnepal-6725" style="text-align: center;">
     <img width="35%" src="screenshots/template-image/youtube-itenp.png" alt="IT Education Nepal" height="300" hspace="10">
@@ -83,8 +83,8 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 <div align="center">
 
 <a href="https://www.youtube.com/channel/UCeMWyKMRaWt06_cxyajaUtg?sub_confirmation=1">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers">
-  <img src="https://img.shields.io/youtube/channel/views/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube video views"  hspace="40">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube subscribers" hspace="20" >
+  <img src="https://img.shields.io/youtube/channel/views/UCeMWyKMRaWt06_cxyajaUtg?color=%09%23FF0000&logo=youtube&style=for-the-badge" alt="YouTube video views">
 </a>
 
 <a href="https://www.youtube.com/channel/UCJinKAyRTpHJOPE0YgCMhog?sub_confirmation=1">
