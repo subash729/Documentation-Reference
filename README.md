@@ -83,7 +83,7 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 ###  <img src="screenshots/template-image/social-media.png" width="65" height="50"> <span style="font-size: 59px;">Social Media Groups</span>
 click on icon to join the the group of respective platform
-<div style="display: flex; justify-content: Center;">
+<div>
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
     <img src="screenshots/template-image/whatsapp-logo.png" alt="Learning Updates" width="300" height="300" style="margin-right: 100px;" hspace="50" >
   </a>
@@ -96,7 +96,7 @@ click on icon to join the the group of respective platform
 ## 🔗 Contact Links
 <!-- picture section -->
 
-<div style="display: flex; justify-content: Center;">
+<div>
   <a href="https://t.me/pingccie" style="text-align: center;">
     <img src="screenshots/template-image/CCIE-Jiwan-bhattrai-sir.png" alt="Learning Updates" width="400" height="250" style="margin-right: 100px;" hspace="50" >
   </a>
