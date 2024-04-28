@@ -34,13 +34,15 @@ A brief description of what this project does and who it's for
 
 For support or inquiries, feel free to reach out to us through the following channels:
 
-**Jiwan Bhattarai**
-- **Email**: [pingjiwan@gmail.com](mailto:pingjiwan@gmail.com)
-- **Phone**: +977 9866358671
+* **<U>Jiwan Bhattarai</U>**
+  - **Email**: [pingjiwan@gmail.com](mailto:pingjiwan@gmail.com)
+  - **Phone**: +977 9866358671
+  - **Viber/Whatsapp/Telegram**: +977 9866358671
 
-**Subash Chaudhary**
-- **Email**: [subaschy729@gmail.com](mailto:subaschy729@gmail.com)
-- **Phone**: +977 9823827047
+* **<U>Subash Chaudhary</u>**
+  - **Email**: [subaschy729@gmail.com](mailto:subaschy729@gmail.com)
+  - **Phone**: +977 9823827047
+  - **Viber/Whatsapp/Telegram**: +977 9823827047
 
 # About Us
 
@@ -81,11 +83,11 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 
 We welcome your feedback, suggestions, and ideas for improvement! Your input helps us enhance our services and better cater to your needs. If you have any comments, questions, or recommendations, please don't hesitate to reach out to us through the following channels:
 
-**Jiwan Bhattarai**
+**<u>Jiwan Bhattarai</u>**
 - **Email:** [pingjiwan@gmail.com](mailto:pingjiwan@gmail.com)
 - **Phone:** +977 9866358671
 
-**Subash Chaudhary**
+**<u>Subash Chaudhary</u>**
 - **Email:** [subaschy729@gmail.com](mailto:subaschy729@gmail.com)
 - **Phone:** +977 9823827047
 
@@ -94,3 +96,5 @@ Alternatively, you can submit feedback directly through GitHub:
 - **GitHub Issues:** [Submit Feedback](https://github.com/subash729/Documentation-Reference/issues/new)
 
 We appreciate your time and value your input, as it helps us continuously improve and better serve your needs.
+
+
