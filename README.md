@@ -26,10 +26,6 @@ A brief description of what this project does and who it's for
 # Project Documentation
 ## Project Description
 
-```diff
-- This is a red colored line
-```
-
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
@@ -93,11 +89,6 @@ In addition to our security focus, we excel in DevOps practices, specializing in
 </a>
 </div>
 
-
-
-
-
-
 ###  <img src="screenshots/template-image/social-media.png" width="65" height="50"> <span style="font-size: 59px;">Social Media Groups</span>
 click on icon to join the the group of respective platform
 <p align="center" width="100%">
@@ -110,7 +101,13 @@ click on icon to join the the group of respective platform
 </div>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/WhatsApp%20Group%20Members-102-brightgreen?logo=whatsapp&style=for-the-badge"  hspace="140"> <img hspace="20" src="https://img.shields.io/badge/Telegram%20Group%20Members-445-blue?logo=telegram&style=for-the-badge">
+  <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
+  <img src="https://img.shields.io/badge/WhatsApp%20Group%20Members-102-brightgreen?logo=whatsapp&style=for-the-badge"  hspace="140"> 
+  </a>
+
+  <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
+    <img hspace="20" src="https://img.shields.io/badge/Telegram%20Group%20Members-445-blue?logo=telegram&style=for-the-badge">
+  </a>
 </div>
 
 ## 🔗 Contact Links
