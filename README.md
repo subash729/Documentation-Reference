@@ -1,16 +1,21 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [Project Topic](#project-topic)
-  - [Authors](#authors)
-  - [1. Description](#1-description)
-  - [2. Project Init ans setup](#2-project-init-ans-setup)
-- [Support and Contact Information](#support-and-contact-information)
-- [🚀 About Us](#-about-us)
-- [🔗 Contact Links](#-contact-links)
-  - [Jiwan Bhattarai CCIE 60261](#jiwan-bhattarai-ccie-60261)
-  - [Subash Chaudhary](#subash-chaudhary)
-- [Feedback and Suggestions](#feedback-and-suggestions)
+1. [Project Topic](#project-topic)..........................................................3
+   - [Authors](#authors)..................................................................3
+   - [1. Description](#1-description)......................................................4
+   - [2. Project Init and Setup](#2-project-init-and-setup)................................5
+
+2. [Support and Contact Information](#support-and-contact-information)....................6
+   - [Jiwan Bhattarai](#jiwan-bhattarai-ccie-60261)........................................6
+   - [Subash Chaudhary](#subash-chaudhary)................................................7
+
+3. [About Us](#-about-us)..................................................................8
+
+4. [Contact Links](#-contact-links)........................................................9
+   - [Jiwan Bhattarai CCIE 60261](#jiwan-bhattarai-ccie-60261)..............................9
+   - [Subash Chaudhary](#subash-chaudhary)...............................................10
+
+5. [Feedback and Suggestions](#feedback-and-suggestions)...................................11
 
 # Project Topic
 
@@ -21,7 +26,6 @@ A brief description of what this project does and who it's for
 - [Jiwan Bhattarai](https://www.linkedin.com/in/jiwanbhattarai/)
 - [Subash Chaudhary](https://www.github.com/subash729)
 
-
 ## 1. Description
 
 - Light/dark mode toggle
@@ -29,10 +33,8 @@ A brief description of what this project does and who it's for
 - Fullscreen mode
 - Cross platform
 
-## 2. Project Init ans setup
-```bash
-chmod +x test.sh 
-```
+## 2. Project Init and Setup
+
 
 # Support and Contact Information
 
@@ -105,5 +107,3 @@ Alternatively, you can submit feedback directly through GitHub:
 - **GitHub Issues:** [Submit Feedback](https://github.com/subash729/Documentation-Reference/issues/new)
 
 We appreciate your time and value your input, as it helps us continuously improve and better serve your needs.
-
-
