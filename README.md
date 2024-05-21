@@ -102,7 +102,7 @@ click on icon to join the the group of respective platform
 
 <div align="left">
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
-  <img src="https://img.shields.io/badge/WhatsApp%20Group%20Members-102-brightgreen?logo=whatsapp&style=for-the-badge"  hspace="120"> 
+  <img src="https://img.shields.io/badge/WhatsApp%20Group%20Members-102-brightgreen?logo=whatsapp&style=for-the-badge"  hspace="80"> 
   </a>
 
   <a href="https://t.me/jiwanbhattarai" style="text-align: center;">
@@ -181,4 +181,5 @@ Alternatively, you can submit feedback directly through GitHub:
 - **GitHub Issues:** [Submit Feedback](https://github.com/subash729/Documentation-Reference/issues/new)
 
 We appreciate your time and value your input, as it helps us continuously improve and better serve your needs.
+
 
