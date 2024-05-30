@@ -1,6 +1,6 @@
 #!/bin/bash
 
-base_store_dir=$HOME/information-gathering/sub-domain-scan
+base_store_dir=$HOME/github-test
 declare -a array_example # for initial all subdomains
 
 

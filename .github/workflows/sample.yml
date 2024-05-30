@@ -22,5 +22,5 @@ jobs:
       - name: Install dependencies
         working-directory: scripts 
         run: |
-            chmod +x upgrade-install.sh
-            ./upgrade-install.sh
+            chmod +x dependency-install.sh
+            ./dependency-install.sh
