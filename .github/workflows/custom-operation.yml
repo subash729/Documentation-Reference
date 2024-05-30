@@ -11,7 +11,7 @@ on:
           - 'upgrade-package'
           - 'new-custom-task'
           - 'custom-with-secret'
-          - 'delete-all-local-scan-files'
+          - 'delete-all-local-temp-files'
 
 jobs:
   upgrade-package:
@@ -25,7 +25,7 @@ jobs:
             whoami
             chmod +x upgrade-install.sh
             sudo ./upgrade-install.sh
-  spawn-container:
+  custom-task:
     if: github.event.inputs.environment == 'new-custom-task'
     runs-on: self-hosted
     steps:
@@ -34,7 +34,7 @@ jobs:
         run : |
             ls -al
 
-  upload-scan-report:
+  custom-task-secret:
     if: github.event.inputs.environment == 'custom-with-secret'
     runs-on: self-hosted
     steps:
@@ -42,4 +42,12 @@ jobs:
           working-directory: scripts
           run: |
               chmod +x mega-config.sh  
-              ./custome.sh -u ${{ secrets.USERNAME }} -p ${{ secrets.PASSWORD }} 
+              ./custom.sh -u ${{ secrets.USERNAME }} -p ${{ secrets.PASSWORD }} 
+
+  Delete-tmp-file:
+    if: github.event.inputs.environment == 'delete-all-local-temp-files'
+    runs-on: self-hosted
+    steps:
+        - name: Authenticating mega and copying file
+          run: |
+              ls -al
